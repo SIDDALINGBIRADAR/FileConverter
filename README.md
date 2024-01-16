@@ -22,9 +22,9 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/SIDDALINGBIRADAR/file-converter.git
 2. Navigate to the Project directory
-    ```cd file-converter
+   cd file-converter
 3. Install dependencies
-    ``` npm install
+   npm install
 4. Start the development
-    ```npm run dev
+   npm run dev
 5. Open your browser and visit http://localhost:3000 to access the application.
